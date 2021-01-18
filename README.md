@@ -12,6 +12,10 @@ My favourite programming language is [Rust](https://www.rust-lang.org), but some
 
 #### What work I'm proud of
 
-My image compression algorithm is the largest and most complex peace of software I ever created. It took 3 days of coding to realize the silly idea I had. It's not as good as I hoped but I still believe in it's potential and I would like to invite *you* to come and contribute to this work.
+My image compression algorithm is the largest and most complex peace of software I ever created. It took 3 days of coding to realize the silly idea I had. It's not as good as I hoped but I still believe in it's potential and I would like to invite *you* to come and contribute to this project.
 
+[![Comp Link Img](https://github.com/umgefahren/umgefahren.github.io/preview_pic_with_writing.png)](https://github.com/umgefahren/image-comp-lib-rust)
 
+##### Bye the way
+
+I'm available for hiring. Please hit me up, although I should be busy graduating.
