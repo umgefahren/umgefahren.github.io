@@ -16,7 +16,7 @@ My image compression algorithm is the largest and most complex peace of software
 
 Download links:
 [![Linux](https://badgen.net/badge/icon/Linux?icon=terminal&label)](https://github.com/umgefahren/image-comp-lib-rust/releases/download/v0.0.1/image-compressor-linux)
-[![Mac Os (Universal)](https://badgen.net/badge/icon/Mac\_Os?icon=apple&label)](https://github.com/umgefahren/image-comp-lib-rust/releases/download/v0.0.1/image-compressor-apple-universal)
+[![Mac Os (Universal)](https://badgen.net/badge/icon/Mac\ Os?icon=apple&label)](https://github.com/umgefahren/image-comp-lib-rust/releases/download/v0.0.1/image-compressor-apple-universal)
 [![Windows](https://badgen.net/badge/icon/Windows?icon=windows&label)](https://github.com/umgefahren/image-comp-lib-rust/releases/download/v0.0.1/image-compressor-win.exe)
 
 [![Comp Link Img](https://github.com/umgefahren/umgefahren.github.io/blob/main/preview_pic_with_writing.png?raw=true)](https://github.com/umgefahren/image-comp-lib-rust)
