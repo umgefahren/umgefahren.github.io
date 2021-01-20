@@ -19,7 +19,7 @@ Download links:
 [![Mac Os (Universal)](https://badgen.net/badge/icon/Mac%20Os?icon=apple&label)](https://github.com/umgefahren/image-comp-lib-rust/releases/download/v0.0.1/image-compressor-apple-universal)
 [![Windows](https://badgen.net/badge/icon/Windows?icon=windows&label)](https://github.com/umgefahren/image-comp-lib-rust/releases/download/v0.0.1/image-compressor-win.exe)
 
-[![Comp Link Img](https://github.com/umgefahren/umgefahren.github.io/blob/main/preview_pic_with_writing.png?raw=true)](https://github.com/umgefahren/image-comp-lib-rust)
+[![Comp Link Img](Project_screen.png)](https://github.com/umgefahren/image-comp-lib-rust)
 
 ##### Bye the way
 
